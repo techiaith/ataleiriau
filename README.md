@@ -12,15 +12,14 @@ Cynhwyswyd hefyd ychydig dros 50 o eiriau mwyaf cyffredin y Saesneg gan eu bod y
 
 
 # Welsh Stopwords List
-This is a list of 488 Welsh stopwords. We based our selection of stopwords on the type of low information wordforms found in spaCy's list of
-326 English stopwords.
+TThis is a list of 488 Welsh stopwords. The selection was based on those found in spaCy 326's stopword list, and includes the types of wordform which are not rich in semantic information.
 
 https://github.com/techiaith/ataleiriau/blob/main/cy_ataleiriau_stopwords.txt
 
-So as to give special consideration to the appropriate forms that arise in the Welsh context specifically, reference was also made to the most frequently used words found within 'CYMES', our large research corpus. This ensured that any missing gaps could be filled appropriately.
+In order to ensure that the appropriate forms, the words which often arise in the Welsh context, were considered and included, reference was also made to the word frequency list  of our huge research corpus 'CYMES' so that any missing gaps could be filled.
 
-This list is slightly longer than the spaCy's English list due to the need to include mutated forms and additional verbal forms compared to that which would be appropriate for English. Although mutated forms and conjugated verbs and prepositions are included, only the most frequent of these were selected. As a reulst, complete verbal conjugations are not to be found within the list.
+This list is slightly longer than the spaCy list because of the need to include both mutated forms and a greater number of conjugated verbs than would be appropriate in English. Although mutated forms and conjugated verbs and prepositions are included, only the most frequently used are incorporated in the list. We do not included, for example, every conjugated form of the verbs.
 
-A little over 50 of the most common English words were also included, as these tend to occur frequently in Welsh texts. They were placed at the end of the list, follwoing the accented letters.
+As they tend to occur in Welsh texts, we also included just over 50 of the most common English words. Those appear at the end of the list, after the accented letters.
 
 
