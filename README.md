@@ -12,13 +12,13 @@ Cynhwyswyd hefyd ychydig dros 50 o eiriau mwyaf cyffredin y Saesneg gan eu bod y
 
 
 # Welsh Stopwords List
-TThis is a list of 488 Welsh stopwords. The selection was based on those found in spaCy 326's stopword list, and includes the types of wordform which are not rich in semantic information.
+This is a list of 488 Welsh stopwords. The selection was based on those found in spaCy's 326 word stopword list, and includes wordforms which are not rich in semantic information.
 
 https://github.com/techiaith/ataleiriau/blob/main/cy_ataleiriau_stopwords.txt
 
-In order to ensure that the appropriate forms, the words which often arise in the Welsh context, were considered and included, reference was also made to the word frequency list  of our huge research corpus 'CYMES' so that any missing gaps could be filled.
+In order to ensure that the appropriate wordforms which specifically arise in the Welsh context were included, reference was also made to the word frequency list  of our large research corpus 'CYMES' so that any missing gaps could be filled.
 
-This list is slightly longer than the spaCy list because of the need to include both mutated forms and a greater number of conjugated verbs than would be appropriate in English. Although mutated forms and conjugated verbs and prepositions are included, only the most frequently used are incorporated in the list. We do not included, for example, every conjugated form of the verbs.
+This list is slightly longer than the spaCy list due to the need to include both mutated forms and a greater number of conjugated verbs than would be appropriate in English. Although mutated forms and conjugated verbs and prepositions are included, only the most frequently used are incorporated in the list. We do not included, for example, every conjugated form of the verbs.
 
 As they tend to occur in Welsh texts, we also included just over 50 of the most common English words. Those appear at the end of the list, after the accented letters.
 
