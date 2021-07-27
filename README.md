@@ -1,4 +1,4 @@
-# Ataleiriau Cymreg
+# Ataleiriau Cymraeg
 Dyma restr o 488 o ataleiriau Cymraeg. Seiliwyd y detholiad hwn o ataleiriau ar y math o eirffurfiau isel eu gwybodaeth semantig sydd i'w cael yn rhestr spaCy o
 326 o ataleiriau Saesneg.
 
