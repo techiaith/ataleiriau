@@ -1,5 +1,5 @@
 # Ataleiriau Cymraeg
-Dyma restr o 488 o ataleiriau Cymraeg. Seiliwyd y detholiad hwn o ataleiriau ar y math o eirffurfiau isel eu gwybodaeth semantig sydd i'w cael yn rhestr spaCy o ataleiriau Saesneg (gweler https://github.com/explosion/spaCy/blob/master/spacy/lang/en/stop_words.py).
+Dyma restr o 488 o ataleiriau Cymraeg. Seiliwyd y detholiad hwn o ataleiriau ar y math o eirffurfiau isel eu gwybodaeth semantig sydd i'w cael yn [rhestr spaCy o ataleiriau Saesneg](https://github.com/explosion/spaCy/blob/master/spacy/lang/en/stop_words.py).
 
 https://github.com/techiaith/ataleiriau/blob/main/cy_ataleiriau_stopwords.txt
 
@@ -14,7 +14,7 @@ Cynhwyswyd hefyd ychydig dros 50 o eiriau mwyaf cyffredin y Saesneg gan eu bod y
 Nodyn: Mae rhai o eriau cyffredin y Gymraeg, fel 'oes', 'maen' a 'rwyf' yn amwys ac yn gallu cyfeirio at wrthrychau yn ogystal â gweithredu fel ffurfiau berfol cyffredin. Credwn eu bod yn gymwys eu cynnwys, ond rhaid arfer gofal wrth ddefnyddio'r rhestr hon, a gwneud newidiadau priodol iddi yn ôl yr angen.
 
 # Welsh Stopwords List
-This is a list of 488 Welsh stopwords. The selection was based on those found in spaCy's English stopword list (see https://github.com/explosion/spaCy/blob/master/spacy/lang/en/stop_words.py), and includes wordforms which are not rich in semantic information.
+This is a list of 488 Welsh stopwords. The selection was based on those found in [spaCy's English stopword list](https://github.com/explosion/spaCy/blob/master/spacy/lang/en/stop_words.py), and includes wordforms which are not rich in semantic information.
 
 https://github.com/techiaith/ataleiriau/blob/main/cy_ataleiriau_stopwords.txt
 
